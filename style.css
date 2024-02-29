@@ -1,0 +1,140 @@
+#bigcontainer{
+    background-color: white;
+    margin: 3%;
+    border: 1px;
+    padding-left: 100px;
+    
+}
+
+.navbar{
+    text-align: center;
+    padding: 24px 8px;
+
+}
+
+#h1{
+
+    color: deeppink;
+    font-size: 60%;
+}
+#Page1{
+    color: black;
+    display: flex;
+
+
+}
+button{
+    background-color: blue;
+    color: white;
+    border: 1px solid;
+    width: 40%;
+    height: 40px;
+    border-radius: 5px;
+}
+#image1{
+    width: 70%;
+    height: 70%;
+}
+.Page2{
+    display: flex;
+    justify-content: space-between;
+    font-size: 100%;
+}
+.anime{
+    display: flex;
+    width: 150%;
+    height: 8vh;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    background-color: skyblue;
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 15%;
+    height: 5vh;
+    display: flex;
+
+}
+.Page3{
+    display: flex;
+    justify-content: space-between;
+    font-size: 100%;
+}
+.photo{
+    display: flex;
+    width: 100px;
+    height: 8vh;
+}
+
+.box1{
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 15%;
+    height: 5vh;
+    display: flex;
+}
+.page4{
+    display: flex;
+    justify-content: space-between;
+    font-size: 100%;
+}
+.box2{
+    align-items: center;
+}
+.photo3{
+    justify-content: space-between;
+    display: flex;
+    width: 10%;
+    height: 5vh;
+}
+.page5{
+    background-color: pink;
+    border: 1px;
+    margin: 10%;
+    padding: 10%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 200%;
+}
+.photo1{
+    width: 150%;
+    height: 30vh;
+    justify-content: space-between;
+}
+.page6{ 
+    display: flex;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
+.photo2{
+    display: flex;
+    width: 150%;
+    height: 7vh;
+    
+}
+.photo4{
+    display: flex;
+    text-align: center;
+    width: 10%;
+    height: 5vh;
+}
+.page7{
+    display: flex;
+
+}
+.photo4{
+    margin-left: 0%;
+}
+
